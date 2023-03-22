@@ -1,8 +1,9 @@
 # SIN HYUN SUNG
 
+# 🤖Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fowjs100)](https://solved.ac/fowjs100/)
 
-# 💪Language
+# 🌐Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
