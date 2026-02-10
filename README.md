@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sin-Hyunsung</h1>
 <h3 align="center">A Passionate AI engineer from Korea</h3>
 
-# 🤖Algorithm
+<!-- # 🤖Algorithm
 <p align="center">
   <a href="https://solved.ac/fowjs100/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fowjs100" alt="Solved.ac Profile">
   </a>
-</p>
+</p> -->
 
 
 # 🌐Languages and Tools
