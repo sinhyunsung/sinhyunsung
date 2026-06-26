@@ -34,7 +34,7 @@
 # 👨‍💻My Project
 
 <p align="center">
-  <a href="http://sinhyunsung.kro.kr/#portfolio">
+  <a href="https://sinhyunsung.kro.kr/blog/about">
     <img src="http://sinhyunsung.kro.kr/media/project/all_project.JPG" alt="Portfolio">
   </a>
 </p>
